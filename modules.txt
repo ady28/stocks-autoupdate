@@ -1,0 +1,2 @@
+dotenv 0.1.0 dev
+mdbc 6.6.1
