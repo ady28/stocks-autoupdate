@@ -5,3 +5,4 @@ docker service create --name swarm_cronjob \
   --env "LOG_JSON=false" \
   --constraint "node.role == manager" \
   crazymax/swarm-cronjob
+  
